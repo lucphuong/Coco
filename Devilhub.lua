@@ -332,7 +332,7 @@ pcall(function()
         Bang = "https://raw.githubusercontent.com/4gh9/Bang-Script-Gui/main/bang%20gui.lua",
         JerkOff = "https://pastefy.app/lawnvcTT/raw",
         AutoClick = "https://raw.githubusercontent.com/Hosvile/The-telligence/main/MC%20KSystem%202",
-        LaserGun = "https://raw.githubusercontent.com/lucphuong/Coco/refs/heads/main/laser_compiled_placeholder.lua", -- placeholder
+        LaserGun = "https://raw.githubusercontent.com/lucphuong/1x1x1x1x1/refs/heads/main/Lasergun.lua?token=GHSAT0AAAAAADMAEXZDBRUBA3FMM4YW3XAC2HVZGUA",
         Gun = "https://pastebin.com/raw/0hn40Zbc",
         Sword = "https://pastebin.com/raw/0hn40Zbc"
     }
